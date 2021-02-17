@@ -4,4 +4,6 @@ class Demo3{
 		System.out.println("added in remote");
 		System.out.println("merged version");
 	}
+//adding a comment
+
 }
