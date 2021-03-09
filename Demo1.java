@@ -3,7 +3,7 @@ class Demo1{
 		System.out.println("This is Demo for Git");
 		System.out.println("Second line added, from remote and local");
 		System.out.println("Third line addition");
-		System.out.println("Line addition in SuperLeague");
+		System.out.println("Line addition in SuperLeague, merger conflict from master");
 	}
 
 
