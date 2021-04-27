@@ -4,6 +4,7 @@ class Demo1{
 		System.out.println("Second line added, from remote and local");
 		System.out.println("Third line addition");
 		System.out.println("Line addition in SuperLeague, merge master and feature1");
+		System.out.println("Line addition in SuperLeague, merge master and feature2");
 	}
 
 
